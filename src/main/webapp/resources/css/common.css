@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+}
+
+.wrapper {
+    min-height: 100%;
+    padding-top: 60px;
+    background: #063453;
+}
+
+#interface {
+    margin: 0 auto;
+    padding: 40px;
+    width: 40vw;
+    border: 2px solid white;
+
+}
+
+#todo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.screen {
+    margin-top: 50px;
+}
+
+.screen h2 {
+    text-align: center;
+}
+
+form {
+    padding-top: 10px;
+
+}
+
+form button{
+    margin-top: 15px;
+}
